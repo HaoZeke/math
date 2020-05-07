@@ -1,0 +1,6 @@
+var searchData=
+[
+  ['r',['R',['../d2/d19/classstan_1_1math_1_1internal_1_1empty__broadcast__array_3_01_view_elt_00_01_t_00_01require__eigen__t_3_01_t_01_4_01_4.html#a3734b737b1e38d53f2aa31b3665a5de2a84cf0c3e96a7d8acc71a26dfee27ea13',1,'stan::math::internal::empty_broadcast_array&lt; ViewElt, T, require_eigen_t&lt; T &gt; &gt;']]],
+  ['readcost',['ReadCost',['../d6/d5e/struct_eigen_1_1_num_traits_3_01stan_1_1math_1_1fvar_3_01_t_01_4_01_4.html#a768855037a4305f4d90091d81bb92258ac32ba519bab5db01a8b5cd1a4d892c0d',1,'Eigen::NumTraits&lt; stan::math::fvar&lt; T &gt; &gt;::ReadCost()'],['../da/da5/struct_eigen_1_1_num_traits_3_01stan_1_1math_1_1var_01_4.html#a9443b6fb64a7f11a1f820e2f251401eaa9dd6c69861224ab22c6513bfc95f8dac',1,'Eigen::NumTraits&lt; stan::math::var &gt;::ReadCost()']]],
+  ['requireinitialization',['RequireInitialization',['../d6/d5e/struct_eigen_1_1_num_traits_3_01stan_1_1math_1_1fvar_3_01_t_01_4_01_4.html#a768855037a4305f4d90091d81bb92258a9755aac49dbaa87c3a448219f225d903',1,'Eigen::NumTraits&lt; stan::math::fvar&lt; T &gt; &gt;::RequireInitialization()'],['../da/da5/struct_eigen_1_1_num_traits_3_01stan_1_1math_1_1var_01_4.html#a9443b6fb64a7f11a1f820e2f251401eaaaf0cb8ae61102886fd8979a5e0adf442',1,'Eigen::NumTraits&lt; stan::math::var &gt;::RequireInitialization()']]]
+];
